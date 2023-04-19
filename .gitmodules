@@ -1,0 +1,3 @@
+[submodule "src/bwalib"]
+	path = src/bwalib
+	url = https://github.com/edigene/bwalib
