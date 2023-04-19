@@ -1,0 +1,15 @@
+{
+    "jszip.min.js": "http://172.16.10.36:9999/static/js/jszip.min.js",
+    "plotly.min.js": "http://172.16.10.36:9999/static/js/plotly.min.js",
+    "jquery.min.js": "http://172.16.10.36:9999/static/js/jquery.min.js",
+    "buttons.html5.min.js": "http://172.16.10.36:9999/static/js/buttons.html5.min.js",
+    "bootstrap.bundle.min.js": "http://172.16.10.36:9999/static/js/bootstrap.bundle.min.js",
+    "jquery.dataTables.min.js": "http://172.16.10.36:9999/static/js/jquery.dataTables.min.js",
+    "dataTables.buttons.min.js": "http://172.16.10.36:9999/static/js/dataTables.buttons.min.js",
+    "logojs.bundle.min.js": "http://172.16.10.36:9999/static/js/logojs.js",
+    "druid.min.js": "https://unpkg.com/@saehrimnir/druidjs",
+    "bootstrap.min.css": "http://172.16.10.36:9999/static/css/bootstrap.min.css",
+    "jquery.dataTables.min.css": "http://172.16.10.36:9999/static/css/jquery.dataTables.min.css",
+    "buttons.dataTables.min.css": "http://172.16.10.36:9999/static/css/buttons.dataTables.min.css",
+    "buttons.html5.show.row.button.added": 1
+}
