@@ -42,7 +42,7 @@ getools is a standalone toolkit designed for fast processing amplicon sequencing
 
 1. install [htslib](https://github.com/samtools/htslib) v1.12 or later
 
-2. clone this repo to your local path and clone the submodule of [bwalib](https://github.com/wulj2/bwalib)
+2. clone this repo to your local path and clone the submodule of [bwalib](https://github.com/edigene/bwalib)
    
    ```git clone --recurse-submodules https://github.com/edigene/getools.git```
 
