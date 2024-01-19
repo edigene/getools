@@ -830,7 +830,8 @@ void GEDetector::var_count(bam1_t* b){
             case BAM_CINS:
                 varm[i] = 1;
                 if(rpos > vvbeg && rpos <= vvend) vsv |= KSW_FINSINRNG;
-                if(varmask & KSW_FINSINRNG) vsv |= KSW_FVARINSEQ;
+                if(varmask & KSW_FINSINRNG) vsv |= KSW_FVARINSEQ；
+                break;
             case BAM_CDIFF:
                 if(rpos <= vvend && rpos + oplen - 1 >= vvbeg){
                     if(oplen == 1){
